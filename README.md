@@ -4,6 +4,9 @@
 💻 Web Developer & UI/UX Designer | WordPress, Flutter & Landing Pages
 
 
+I'm a passionate Web Developer & UI/UX Designer specializing in Flutter, WordPress, and landing page development.
+
+
 ### 🚀 What I Do
 - Build custom WordPress websites & landing pages
 - Design Flutter app interfaces & Figma prototypes
