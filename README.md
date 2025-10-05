@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Safaa 👋
 
-<!--
-**safaa-slaiby/safaa-slaiby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Web Developer & UI/UX Designer | WordPress, Flutter & Landing Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 What I Do
+- Build custom WordPress websites & landing pages
+- Design Flutter app interfaces & Figma prototypes
+- Convert designs into live code
+- Optimize websites for SEO and performance
+
+### 🧰 Tech Stack
+Flutter • Dart • WordPress • Elementor • Figma • Adobe XD • HTML • CSS • JavaScript • SEO
+
+### 🌍 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/safaaslaiby)
+- 📧 safaaslaiby@gmail.com
+
+⭐ "Great design isn’t just how it looks — it’s how it works."
