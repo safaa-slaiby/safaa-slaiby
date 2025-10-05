@@ -14,7 +14,7 @@ I'm a passionate Web Developer & UI/UX Designer specializing in Flutter, WordPre
 - Optimize websites for SEO and performance
 
 ### 🧰 Tech Stack
-Flutter • Dart • WordPress • Elementor • Figma • Adobe XD • HTML • CSS • JavaScript • SEO
+Flutter • Dart • WordPress • Elementor • Figma  • HTML • CSS • JavaScript • SEO
 
 ### 🌍 Connect With Me
 
